@@ -4,12 +4,12 @@
 
 💸 MS Business Analytics - UT Dallas
 
-#### You can find:
-🐍 Python portfolio [here]
+#### You can find my portfolis here:
+🐍 Python portfolio here (I am about to commit my projects anyday)
 
-📬 SQL projects portfolio [here]
+📬 SQL projects portfolio here (I am about to commit my projects anyday)
 
-💻 R projects portfolio [here]
+💻 R projects portfolio here (I am about to commit my projects anyday)
 
 #### 🚀 Fun Fact? I am a rock climber and an okayish cook.
 #### ⚡ Wanna talk: Here is my [Linkedin](https://www.linkedin.com/in/ali-bagheri-tirtashi/)
