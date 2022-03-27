@@ -11,7 +11,10 @@
 
 💻 R projects portfolio here (I am about to commit my projects anyday)
 
+
 #### 🚀 Fun Fact? I am a rock climber and an okayish cook.
+
+
 #### ⚡ Wanna talk: Here is my [Linkedin](https://www.linkedin.com/in/ali-bagheri-tirtashi/)
 
 
