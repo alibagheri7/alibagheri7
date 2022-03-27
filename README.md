@@ -5,7 +5,7 @@
 💸 MS Business Analytics - UT Dallas
 
 #### You can find my portfolis here:
-🐍 Python portfolio here (I am about to commit my projects anyday)
+🐍 Python portfolio [here](https://github.com/alibagheri7/Python)
 
 📬 SQL projects portfolio here (I am about to commit my projects anyday)
 
