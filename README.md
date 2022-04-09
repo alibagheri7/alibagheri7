@@ -2,7 +2,7 @@
 
 #### I use data to ask questions and find their answers.
 
-💸 MS Business Analytics - UT Dallas
+✨ MS Business Analytics - UT Dallas
 
 #### You can find my portfolis here:
 🐍 Python portfolio [here](https://github.com/alibagheri7/Python)
@@ -30,10 +30,10 @@
 
 #### Data Visualization Tools:
 
+  Tableau
+ 
   Microsoft Excel
  
-  Tableau
-
 #### Project Management Tools:
 
   Microsoft Projects
