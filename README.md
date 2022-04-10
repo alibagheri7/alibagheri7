@@ -7,9 +7,9 @@
 #### You can find my portfolis here:
 🐍 Python portfolio [here](https://github.com/alibagheri7/Python)
 
-📬 SQL projects portfolio here (I am about to commit my projects anyday)
+📬 SQL projects portfolio [here](https://github.com/alibagheri7/SQL-portfolio)
 
-💻 R projects portfolio here (I am about to commit my projects anyday)
+💻 R projects portfolio [here](https://github.com/alibagheri7/R-portfolio)
 
 
 #### 🚀 Fun Fact? I am a rock climber and an okayish cook.
