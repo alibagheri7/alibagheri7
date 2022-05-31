@@ -5,11 +5,11 @@
 ✨ MS Business Analytics - UT Dallas
 
 #### You can find my portfolis here:
-🐍 Python portfolio [here](https://github.com/alibagheri7/Python)
+🐍 Python portfolio -> [here](https://github.com/alibagheri7/Python)
 
-📬 SQL projects portfolio [here](https://github.com/alibagheri7/SQL-portfolio)
+📬 SQL projects portfolio -> [here](https://github.com/alibagheri7/SQL-portfolio)
 
-💻 R projects portfolio [here](https://github.com/alibagheri7/R-portfolio)
+💻 R projects portfolio -> [here](https://github.com/alibagheri7/R-portfolio)
 
 
 #### 🚀 Fun Fact? I am a rock climber and an okayish cook.
@@ -20,29 +20,15 @@
 
 #### Languages and Data Analytics Tools:
 
-  Python
- 
-  SQL
- 
-  R Programming
- 
-  Microsoft Excel
+  Python, SQL, R Programming, Microsoft Excel
 
 #### Data Visualization Tools:
 
-  Tableau
- 
-  Microsoft Excel
+  Tableau, Microsoft Excel
  
 #### Project Management Tools:
 
-  Microsoft Projects
- 
-  Github
- 
-  Visio
- 
-  Google Workspace
+  Github, Microsoft Projects, Visio, Google Workspace
 
 <!--
 **alibagheri7/alibagheri7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
