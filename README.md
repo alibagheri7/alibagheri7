@@ -22,6 +22,11 @@
 
   Python, SQL, R Programming, Microsoft Excel
 
+#### Python Libraries:
+
+  NumPy, Pandas, Scikit‑Learn, statsmodels, SciPy, Matplotlib, Seaborn, TensorFlow, Keras, Shap, H2O, Autofeat, Miceforest, pmdarima, FacebookProphet, Optuna, skopt, Jupyter notebook
+
+
 #### Data Visualization Tools:
 
   Tableau, Microsoft Excel
